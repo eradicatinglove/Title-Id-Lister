@@ -9,3 +9,8 @@ i thought this would be usefull for when you need to install cheats an you need 
 you now dont have to look up the title id online but instead use this app to list all games and title ids 
 
 hope you found this usefull. 
+
+# How to use
+
+simply download the switch.zip and extract the switch folder to the root of the sd card. 
+alternatively you can download the switch.zip and open the switch folder then copyt the Title-Id-Lister.nro to the switch folder. 
