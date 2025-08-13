@@ -1,5 +1,8 @@
 # Title-Id-Lister
 
+![2025081316005800-68C370F3B4A0DB855DFC57E1427942CF](https://github.com/user-attachments/assets/8d65dc8d-2731-48de-982d-2e3163a3fe79)
+
+
 this app was a failed attempt to create a sysmodule like systweak lol. 
 
 however i gave up and left the function to list the title ids and games installed on the switch. 
